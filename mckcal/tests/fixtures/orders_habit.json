@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": {
+    "orders": [
+      {
+        "orderId": "OID-SHOULD-DROP",
+        "orderStatus": "已完成",
+        "storeName": "测试门店不应出现",
+        "storeCode": "STORE-1",
+        "createTime": "2026-10-01 12:00:00",
+        "realTotalAmount": 42.5,
+        "phone": "13800138000",
+        "fullAddress": "某某小区1号楼",
+        "orderProductList": [
+          {
+            "productName": "巨无霸套餐",
+            "quantity": 1,
+            "comboItemList": [
+              {"productName": "巨无霸", "quantity": 1},
+              {"productName": "大薯", "quantity": 1},
+              {"productName": "可乐中杯", "quantity": 1}
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "OID-2",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productName": "巨无霸", "quantity": 1},
+          {"productName": "中薯", "quantity": 1}
+        ]
+      },
+      {
+        "orderId": "OID-3",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productName": "巨无霸", "quantity": 1},
+          {"productName": "可乐中杯", "quantity": 1}
+        ]
+      },
+      {
+        "orderId": "OID-CANCEL",
+        "orderStatus": "已取消",
+        "orderProductList": [
+          {"productName": "板烧鸡腿堡", "quantity": 1}
+        ]
+      },
+      {
+        "orderStatus": "",
+        "orderProductList": [
+          {"productName": "麦香鸡", "quantity": 1}
+        ]
+      }
+    ]
+  }
+}

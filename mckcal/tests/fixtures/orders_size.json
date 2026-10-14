@@ -1,0 +1,12 @@
+{
+  "orders": [
+    {
+      "orderStatus": "已完成",
+      "orderProductList": [
+        {"productName": "可乐", "quantity": 1},
+        {"productName": "可乐小杯", "quantity": 1},
+        {"productName": "可乐中杯", "quantity": 1}
+      ]
+    }
+  ]
+}

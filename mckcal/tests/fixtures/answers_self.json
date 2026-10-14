@@ -1,0 +1,10 @@
+{
+  "source": "self_report",
+  "confirmed": true,
+  "meal_ceiling_kcal": 600,
+  "avoid": ["中薯"],
+  "items": [
+    {"name": "麦香鸡", "times": 4, "quantity": 1},
+    {"name": "可乐", "times": 2, "quantity": 1}
+  ]
+}

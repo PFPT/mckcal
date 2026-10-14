@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "code": 200,
+  "message": "请求成功",
+  "datetime": "2026-01-23 09:32:44",
+  "data": "[8]{productName,nutritionDescription,energyKj,energyKcal,protein,fat,carbohydrate,sodium,calcium}:\n  巨无霸,null,2301,550,27,30,41,900,200\n  巨无霸套餐,null,4600,1100,40,50,90,1400,250\n  大薯,null,1799,430,5,21,48,300,20\n  中薯,null,1172,280,4,14,32,200,15\n  可乐中杯,null,586,140,0,0,35,10,0\n  可乐大杯,null,753,180,0,0,45,15,0\n  麦香鸡,null,1674,400,16,20,38,800,150\n  板烧鸡腿堡,null,1757,420,20,18,40,850,160\n"
+}
